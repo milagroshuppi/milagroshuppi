@@ -30,6 +30,6 @@ Python · Java · JavaScript · SQL · ROS 2 · Linux · Git
 
 ### Contacto
 
-[LinkedIn](https://www.linkedin.com/in/maria-milagros-huppi-falco-494968430) · mmilagroshuppi@gmail.com
+[Mi CV](https://milagroshuppi.github.io) · [LinkedIn](https://www.linkedin.com/in/maria-milagros-huppi-falco-494968430) · mmilagroshuppi@gmail.com
 
 Fuera de la compu, fui nadadora federada.
