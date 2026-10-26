@@ -1,6 +1,6 @@
 ## Hola, soy Milagros Huppi
 
-Estudiante de Ingeniería en Sistemas de Información en la UTN Facultad Regional Córdoba.
+Estudiante avanzada de Ingeniería en Sistemas de Información en la UTN Facultad Regional Córdoba.
 
 Me interesa la inteligencia artificial aplicada y el análisis de sistemas. Hoy formo parte del equipo de robótica del CUDAR, donde desarrollo la interfaz de control de un robot cilíndrico didáctico con ROS 2.
 
@@ -13,9 +13,11 @@ Me interesa la inteligencia artificial aplicada y el análisis de sistemas. Hoy 
 
 Python · Java · JavaScript · SQL · ROS 2 · Linux · Git
 
-### Ahora mismo
+### En qué estoy trabajando
 
-Aprendiendo a construir aplicaciones con la API de Claude y mejorando mi inglés.
+- **Robótica:** sigo desarrollando la interfaz de control del robot del CUDAR con ROS 2, integrando nodos, tópicos y pruebas sobre el robot real.
+- **Inteligencia artificial:** me estoy formando en Anthropic Academy para construir aplicaciones con la API de Claude y conectar modelos de IA con herramientas y datos externos a través de MCP (Model Context Protocol).
+- **Integraciones y datos:** profundizo en APIs REST, testing automatizado y SQL, aplicándolos en mis propios proyectos.
 
 ### Contacto
 
