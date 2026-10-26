@@ -19,6 +19,15 @@ Python · Java · JavaScript · SQL · ROS 2 · Linux · Git
 - **Inteligencia artificial:** me estoy formando en Anthropic Academy para construir aplicaciones con la API de Claude y conectar modelos de IA con herramientas y datos externos a través de MCP (Model Context Protocol).
 - **Integraciones y datos:** profundizo en APIs REST, testing automatizado y SQL, aplicándolos en mis propios proyectos.
 
+### Cursos
+
+- AI Fluency: Framework & Foundations — Anthropic Academy
+- Claude 101 — Anthropic Academy
+- Introduction to Generative AI — Google Cloud Skills Boost
+- Intro to SQL — Kaggle Learn
+- Conectadas: Programación — programa del gobierno
+- En curso: Building with the Claude API e Introduction to Model Context Protocol (Anthropic Academy)
+
 ### Contacto
 
 [LinkedIn](https://www.linkedin.com/in/maria-milagros-huppi-falco-494968430) · mmilagroshuppi@gmail.com
