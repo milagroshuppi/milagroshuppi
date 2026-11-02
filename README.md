@@ -8,6 +8,7 @@ Me interesa la inteligencia artificial aplicada y el análisis de sistemas. Hoy 
 
 - [Comparador de IA](https://github.com/milagroshuppi/comparador-ia-poc): compara modelos y prompts de IA generativa con criterios medibles y arma un reporte con la recomendación. Python y API de Claude.
 - [API de Integración de Cobranzas](https://github.com/milagroshuppi/api-integracion-cobranzas): simula cómo un banco se integra con el sistema de gestión de una empresa y concilia facturas automáticamente. Python, FastAPI y SQL.
+- [Dashboard de Cobranzas](https://milagroshuppi.github.io/dashboard-cobranzas/): análisis de cobranzas y morosidad con un dashboard web (efectividad de cobro, DSO, antigüedad de deuda). Python, SQL y pandas.
 
 ### Con qué trabajo
 
